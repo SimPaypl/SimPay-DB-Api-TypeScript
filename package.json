@@ -1,0 +1,22 @@
+{
+  "name": "simpaydb",
+  "author": "Rafal Wiecek",
+  "version": "1.0.0",
+  "description": "SimPay.pl DB Api",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "simpay",
+    "payment",
+    "db",
+    "api"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "crypto-ts": "^1.0.2"
+  }
+}
