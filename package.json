@@ -1,5 +1,5 @@
 {
-  "name": "simpaydb",
+  "name": "simpay-db-api-ts",
   "author": "Rafal Wiecek",
   "version": "1.0.0",
   "description": "SimPay.pl DB Api",
