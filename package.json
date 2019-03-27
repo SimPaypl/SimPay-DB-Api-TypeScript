@@ -18,5 +18,17 @@
   "license": "Apache-2.0",
   "dependencies": {
     "crypto-ts": "^1.0.2"
-  }
+  },
+  "devDependencies": {
+    "typescript": "^3.3.4000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimPaypl/SimPay-DB-Api-TypeScript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SimPaypl/SimPay-DB-Api-TypeScript/issues"
+  },
+  "homepage": "https://github.com/SimPaypl/SimPay-DB-Api-TypeScript#readme",
+  "files": ["lib/**/*"]
 }
