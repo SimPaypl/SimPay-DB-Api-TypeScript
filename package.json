@@ -30,5 +30,7 @@
     "url": "https://github.com/SimPaypl/SimPay-DB-Api-TypeScript/issues"
   },
   "homepage": "https://github.com/SimPaypl/SimPay-DB-Api-TypeScript#readme",
-  "files": ["lib/**/*"]
+  "files": [
+    "lib/**/*"
+  ]
 }
